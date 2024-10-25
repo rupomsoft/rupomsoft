@@ -42,3 +42,48 @@
 <img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
 <img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
 </div>
+
+###  Open Source Contribution Going:
+
+<table>
+<tbody>
+<tr>
+<td>
+<div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
+
+</div>
+</td>
+
+<td>
+<div style="cursor:pointer" href="https://github.com/rupomsoft/express-fileforge">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
+</div>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
+</div>
+
+</td>
+
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/MERN-STACK-Series">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
+</div>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
