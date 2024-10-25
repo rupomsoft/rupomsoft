@@ -114,3 +114,25 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 7. High performance & reusable JavaScript component development.
 8. Web application optimization to reduce server load.
 9. Web security practices
+
+
+<table>
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
