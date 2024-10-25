@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204" height="200" viewBox="0 0 204 200">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.073" y1="1.17" x2="0.819" y2="0.286" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1b4e94"/>
+      <stop offset="0.63" stop-color="#1a5497"/>
+      <stop offset="1" stop-color="#195a9b"/>
+    </linearGradient>
+  </defs>
+  <g id="Flutter" transform="translate(15177 8591)">
+    <rect id="Rectangle_179" data-name="Rectangle 179" width="204" height="200" rx="11" transform="translate(-15177 -8591)" fill="none"/>
+    <rect id="Rectangle_180" data-name="Rectangle 180" width="176" height="176" rx="13" transform="translate(-15164 -8578)" fill="#fff"/>
+    <g id="Flutter-2" data-name="Flutter" transform="translate(-15150.3 -8554)">
+      <g id="Group_117" data-name="Group 117">
+        <path id="Path_53" data-name="Path 53" d="M12.3,64.2,76.3,0h39.4L32.1,83.6Zm64,63.8h39.4L81.6,93.9l34.1-34.8H76.3L42.2,93.5Z" fill="#3fb6d3"/>
+      </g>
+      <path id="Path_54" data-name="Path 54" d="M81.6,93.9l-20-20L42.2,93.5l19.4,19.6Z" fill="#27aacd"/>
+      <path id="Path_55" data-name="Path 55" d="M115.7,128,81.6,93.9l-20,19.2L76.3,128Z" fill="#19599a"/>
+      <path id="Path_56" data-name="Path 56" d="M61.6,113.1l30.8-8.4L81.6,93.9Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

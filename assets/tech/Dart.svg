@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="200" viewBox="0 0 204 200">
+  <g id="Dart" transform="translate(15172 8841)">
+    <rect id="Rectangle_177" data-name="Rectangle 177" width="204" height="200" rx="11" transform="translate(-15172 -8841)" fill="none"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" width="176" height="176" rx="13" transform="translate(-15159 -8828)" fill="#fff"/>
+    <g id="Dart-2" data-name="Dart" transform="translate(-15138.628 -8805.002)">
+      <path id="Path_48" data-name="Path 48" d="M35.2,34.9l-8.3-8.3V86.3l.1,2.8a13.768,13.768,0,0,0,.7,4.3l65.6,23.1,16.3-7.2L35.2,34.9Z" fill="#00c4b3"/>
+      <path id="Path_49" data-name="Path 49" d="M27.7,93.4Zm81.9,15.9-16.3,7.2L27.9,93.4c1.3,4.8,4,10.1,7,13.2l21.3,21.2,47.6.1Z" fill="#22d3c5"/>
+      <path id="Path_50" data-name="Path 50" d="M1.7,65.1C-.4,67.3.7,72,4,75.5L18.7,90.3l9.2,3.3a23.975,23.975,0,0,1-.7-4.3l-.1-2.8-.2-59.8m82.7,82.6,7.2-16.4-23-65.6a38.253,38.253,0,0,0-4.3-.7l-2.9-.1L27,26.6" fill="#0075c9"/>
+      <path id="Path_51" data-name="Path 51" d="M93.6,27.3Zm16,82,17.7-5.8V54.8L106.9,34.3c-3-3-8.3-5.8-13.2-7l23.1,65.6" fill="#00a8e1"/>
+      <path id="Path_52" data-name="Path 52" d="M90.5,18.2,75.7,3.5C72.3.1,67.7-.9,65.3,1.2L26.9,26.6H86.4l2.9.1a13.768,13.768,0,0,1,4.3.7l-3.1-9.2Z" fill="#00c4b3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="200" viewBox="0 0 204 200">
+  <g id="Azure" transform="translate(14616 8929)">
+    <g id="Group_134" data-name="Group 134">
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="204" height="200" rx="11" transform="translate(-14616 -8929)" fill="none"/>
+      <rect id="Rectangle_202" data-name="Rectangle 202" width="176" height="176" rx="13" transform="translate(-14603 -8916)" fill="#fff"/>
+    </g>
+    <g id="Azure-2" data-name="Azure" transform="translate(-14578 -8893)">
+      <path id="Path_106" data-name="Path 106" d="M42.359,0H79.75l-38.815,115a5.96,5.96,0,0,1-5.648,4.056H6.188a5.952,5.952,0,0,1-5.641-7.855L36.71,4.057A5.963,5.963,0,0,1,42.359,0Z" transform="translate(0.587 4.468)" fill="#4285f4"/>
+      <path id="Path_107" data-name="Path 107" d="M97.28,81.607H37.987a2.743,2.743,0,0,0-1.874,4.751l38.1,35.562a5.991,5.991,0,0,0,4.087,1.61h33.574Z" fill="#4285f4"/>
+      <path id="Path_108" data-name="Path 108" d="M42.359,0A5.913,5.913,0,0,0,36.7,4.136L.592,111.109A5.945,5.945,0,0,0,6.2,119.062h29.85a6.38,6.38,0,0,0,4.9-4.164l7.2-21.22L73.87,117.666a6.082,6.082,0,0,0,3.828,1.4h33.449L96.476,77.139l-42.766.01L79.885,0Z" transform="translate(0.587 4.468)" fill="#4285f4"/>
+      <path id="Path_109" data-name="Path 109" d="M90.116,4.051A5.952,5.952,0,0,0,84.475,0H42.8a5.953,5.953,0,0,1,5.64,4.049L84.609,111.206a5.952,5.952,0,0,1-5.64,7.858h41.673a5.955,5.955,0,0,0,5.639-7.858Z" transform="translate(0.587 4.468)" fill="#4285f4"/>
+    </g>
+  </g>
+</svg>
