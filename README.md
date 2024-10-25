@@ -70,7 +70,9 @@
 <tr>
 <td>
 <div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
+
 </div>
 
 </td>
